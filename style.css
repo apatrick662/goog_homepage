@@ -12,6 +12,27 @@ input{
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+    color: #808080;
+}
+
+.top{
+    height: 35px;
+    padding-top: 15px;
+    background-color: #f2f2f2;
+}
+
+.mid{
+
+}
+
+.bot{
+    height: 35px;
+    padding-top: 15px;
+    background-color: #f2f2f2;
+}
+
 .topleft{
     float: left;
 }
@@ -29,5 +50,14 @@ input{
 }
 
 #searchbox{
-    width: 40%;
+    width: 50%;
+    padding: 5px;
+}
+
+#search{
+    width: 150px;
+}
+
+#lucky{
+    width: 150px;
 }
