@@ -24,10 +24,8 @@ a{
 }
 
 .mid{
-    position: relative;
-    width: 90%;
-    left: 50%;
-    margin-left: -100px;
+    width: 50%;
+    margin: 0 auto;
 }
 
 .bot{
