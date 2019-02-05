@@ -32,18 +32,18 @@ a:hover{
 .button{
     color: white;
     background-color: blue;
-    padding: 15px;
+    padding: 15px 30px;
 }
 
 .top{
     height: 35px;
     padding-top: 15px;
-    background-color: #f2f2f2;
+    background-color: white;
 }
 
-.mid{
+/*.mid{
     
-}
+}*/
 
 .bot{
     height: 35px;
@@ -79,4 +79,3 @@ a:hover{
     padding: 1em;
     margin: 1em;
 }
-
