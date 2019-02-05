@@ -29,10 +29,20 @@ a:hover{
     text-decoration: underline;
 }
 
+center{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
 .button{
     color: white;
+    font-weight: bold;
     background-color: blue;
     padding: 15px 30px;
+    border: 1px solid black;
+    border-radius: 2px;
 }
 
 .top{
@@ -78,4 +88,9 @@ a:hover{
     height: 15%;
     padding: 1em;
     margin: 1em;
+    box-shadow: 0 1px gray;
+}
+
+#searchbox:hover{
+    box-shadow: 0 4px gray;
 }
