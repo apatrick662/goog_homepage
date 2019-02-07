@@ -1,6 +1,6 @@
-*{
+/**{
     border: 1px solid red;
-}
+}*/
 
 body{
     font-size: 16px;
@@ -13,6 +13,8 @@ ul{
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    justify-content: center;
 }
 
 li{
@@ -53,6 +55,7 @@ center{
     height: 35px;
     padding-top: 15px;
     background-color: white;
+    margin-top: 10px;
 }
 
 /*.mid{
@@ -111,10 +114,14 @@ center{
 #apps{
     height: 30px;
     width: 30px;
-    margin-bottom: none;
+    margin-top: -8px;
 }
 
 #secbar{
     margin-left: 88px;
     padding: 2em;
+}
+
+#img{
+
 }
