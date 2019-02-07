@@ -1,5 +1,5 @@
 body{
-    font-size: 18px;
+    font-size: 16px;
     margin: 0;
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
@@ -93,4 +93,9 @@ center{
 
 #searchbox:hover{
     box-shadow: 0 4px gray;
+}
+
+#apps{
+    height: 30px;
+    width: 30px;
 }
