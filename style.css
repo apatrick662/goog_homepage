@@ -122,6 +122,15 @@ center{
     padding: 2em;
 }
 
-#img{
+#topbar{
+    display: flex;
+    justify-content: left;
+}
 
+#resButton{
+    float: right;
+}
+
+#resSearchBox{
+    margin-top: 10px;
 }
